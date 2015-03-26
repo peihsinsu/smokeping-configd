@@ -1,0 +1,170 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to the SmokePing website of MiTAC Company. \
+         Here you will learn all about the latency of our network.
+
++ GCP
+menu = GCP
+title = GCP
+
+++ asia-east1
+menu = asia-east1
+title = asia-east1
+probe = FPing
+host = 104.199.136.24
+
+++ us-central1
+menu = us-central1
+title = us-central1
+probe = FPing
+host = 130.211.147.47
+
+++ europe-west1
+menu = europe-west1
+title = europe-west1
+probe = FPing
+host = 104.155.46.185
+
++ Europe
+menu = Europe
+title = Europe
+
+++ UK-BBC
+menu = UK-BBC
+title = UK-BBC
+probe = FPing
+host = www.bbc.co.uk
+
+++ FR-WorldNet
+menu = FR-WorldNet
+title = FR-WorldNet
+probe = FPing
+host = www.worldnet.fr
+
+++ FR-LyonISP
+menu = FR-LyonISP
+title = FR-LyonISP
+probe = FPing
+host = www.lyonix.net
+
+++ NL-XIISP
+menu = NL-XIISP
+title = NL-XIISP
+probe = FPing
+host = 31.3.96.207
+
+++ DE-ArcorISP
+menu = DE-ArcorISP
+title = DE-ArcorISP
+probe = FPing
+host = 88.74.73.223
+
+++ ES-Rangos
+menu = ES-Rangos
+title = ES-Rangos
+probe = FPing
+host = 79.109.105.113
+
+++ RO-Sqshosting
+menu = RO-Sqshosting
+title = RO-Sqshosting
+probe = FPing
+host = 5.254.105.66
+
++ Asia
+menu = Asia
+title = Asia
+
+++ HK-Newswood
+menu = HK-Newswood
+title = HK-Newswood
+probe = FPing
+host = 59.188.69.93
+
+++ TW-Hinet
+menu = TW-Hinet
+title = TW-Hinet
+probe = FPing
+host = 168.95.1.1
+
+++ MY-KL
+menu = MY-KL
+title = MY-KL
+probe = FPing
+host = 110.74.178.106
+
+++ SG-Singnet
+menu = SG-Singnet
+title = SG-Signet
+probe = FPing
+host = 121.7.81.151
+
+++ TH-KMU
+menu = TH-KMU
+title = TH-KMU
+probe = FPing
+host = 202.44.8.34
+
+++ JP-NIC
+menu = JP-NIC
+title = JP-NIC
+probe = FPing
+host = 210.168.90.138
+
+++ RU-YandexISP
+menu = RU-YandexISP
+title = RU-YandexISP
+probe = FPing
+host = 178.154.243.74
+
++ Australia
+menu = Australia
+title = Australia
+
+++ AU-Sydney
+menu = AU-Sydney
+title = AU-Sydney
+probe = FPing
+host = 202.124.241.200
+
+++ NZ-DTSISP
+menu = NZ-DTSISP
+title = NZ-DTSISP
+probe = FPing
+host = 202.20.5.181
+
++ NorthAmer
+menu = NorthAmer
+title = NorthAmer
+
+++ US-NYTimes
+menu = US-NYTimes
+title = US-NYTimes
+probe = FPing
+host = 170.149.172.130
+
++ SouthAmer
+menu = SouthAmer
+title = SouthAme.
+
+++ BR-SaoPaulo
+menu = BR-SaoPaulo
+title = BR-SaoPaulo
+probe = FPing
+host = 177.71.177.249
+
+++ CH-UbsISP
+menu = CH-UbsISP
+title = CH-UbsISP
+probe = FPing
+host = 64.117.130.144
+
+
+
+
+
+
