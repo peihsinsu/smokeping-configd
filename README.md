@@ -25,3 +25,12 @@ cgiurl   = http://your-ip-address/smokeping/smokeping.cgi
 ... (skip)
 
 ```
+
+If you want to keep the data that can be used next container start, you can mount the "/var/lib/smokeping" path from your persistance disk.
+
+```
+docker run -d -p 80:80 \
+  -v ~/dockerws/smokeping/config.d:/etc/smokeping/config.d \
+  -v ~/dockerws/smokeping/data:/var/lib/smokeping \
+  peihsinsu/smokeping
+```
